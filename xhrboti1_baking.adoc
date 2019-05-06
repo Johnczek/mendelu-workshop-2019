@@ -1,0 +1,49 @@
+= Simple apple-banana-vanilla cake
+
+This is a test markdown repo for *baking a cake* _for people_ with some `base baking and decoration skills`.
+
+*Author:* Jan Hrboticky (xhrboti1)
+
+== Ingredients
+
+=== Dough
+* Flour *(500 grams)*
+* Eggs *(2 pieces)*
+* Vanilla sugar *(3 pinches)*
+* Salt *(1 pinch)*
+* Baking powder *(1 pinch)*
+* Oil *(10 milliliters)*
+
+=== Creme
+* Milk *(500 milliliters)*
+* Vanilla pudding *(1 bag)*
+* Butter *(1 piece)*
+* Sugar *(2 pinches)*
+
+=== Decoration
+* Apples *(2 pieces)*
+* Bananas *(2 pieces)*
+* Honey *(50 milliliters)*
+
+== Procedures
+
+. Use oil on the circle bowl.
+. Mix all the *dough ingredients* together in a oiled bowl. There *should be* at least 4 centimeters to the edge of the bowl.
+. Leave prepared dough in a fridge for *30 minutes*.
+. In the meantime mix the ingredients for a creme together.
+. Slice apples and bananas into separate bowl.
+. Pour honey in the bowl with banana and apple slices and mi it all together.
+. Bake rested dough in a oven _(200°C)_ for *1 hour*.
+. Fill the remaining space between the corpus and bowl edge with prepared creme.
+. Spread the honeyed apples and bananas all over the top of a cake.
+. Leave the cake in a fridge for at least 5 hours.
+
+The cake is now ready.
+`BON APETIT!`
+
+
+*Join us on social networks for another tasty recipes*
+
+* link:http://facebook.com[Facebook]
+* link:http://twitter.com[Twitter]
+* link:http://linkedin.com[LinkedIn]
